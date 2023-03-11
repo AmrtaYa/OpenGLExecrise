@@ -1,0 +1,3 @@
+"D:\JetBrain\Clion\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Execrise2.dir/objects.a
+D:\JetBrain\Clion\CLION2~1.2\bin\mingw\bin\ar.exe qc CMakeFiles\Execrise2.dir/objects.a @CMakeFiles\Execrise2.dir\objects1.rsp
+D:\JetBrain\Clion\CLION2~1.2\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Execrise2.dir/objects.a -Wl,--no-whole-archive -o Execrise2.exe -Wl,--out-implib,libExecrise2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Execrise2.dir\linklibs.rsp

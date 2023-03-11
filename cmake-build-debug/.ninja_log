@@ -1,0 +1,15 @@
+# ninja log v5
+3	1276	7000494059007625	CMakeFiles/Execrise2.dir/main.cpp.obj	7f72f9156018f0ec
+9	1376	6994207629489716	CMakeFiles/Execrise2.dir/include/glad.c.obj	c6b0e20f68357243
+1276	1410	7000494060323898	Execrise2.exe	f7be0ba96c0fa2b0
+5	629	7000500165839462	build.ninja	132c806dc2311c0f
+3	470	6993809181082641	CMakeFiles/Execrise2.dir/Shader/Shader.cpp.obj	a15f28a13002c899
+7	684	7000492772887711	CMakeFiles/Execrise2.dir/Component/Shader.cpp.obj	819457824624673f
+5	80	6992920292012393	CMakeFiles/Execrise2.dir/Test.cpp.obj	97bc24b804031c0d
+4	620	6997986677476285	CMakeFiles/Execrise2.dir/Camera/Camera.cpp.obj	c9d9db18ebd03885
+12	821	7000492774267744	CMakeFiles/Execrise2.dir/Component/Camera.cpp.obj	3411458857be4c37
+8	727	7000513510423389	CMakeFiles/Execrise2.dir/Component/Material.cpp.obj	526acea36c365714
+4	1376	7000513516893304	CMakeFiles/Execrise2.dir/main.cpp.obj	7f72f9156018f0ec
+1376	1561	7000513518373288	Execrise2.exe	cb3d10300f7705cc
+5	1692	7000513840421498	CMakeFiles/Execrise2.dir/main.cpp.obj	7f72f9156018f0ec
+1692	1827	7000513841741473	Execrise2.exe	cb3d10300f7705cc

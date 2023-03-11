@@ -1,0 +1,4 @@
+"D:\JetBrain\Clion\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S D:\TA\Execrise2\Execrise2 -B D:\TA\Execrise2\Execrise2\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/TA/Execrise2/Execrise2/cmake-build-debug

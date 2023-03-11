@@ -1,0 +1,1 @@
+  -LD:/TA/Execrise2/Execrise2/lib  D:/TA/Execrise2/Execrise2/lib/glfw3.dll -lopengl32 D:/TA/Execrise2/Execrise2/lib/glew32.dll -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

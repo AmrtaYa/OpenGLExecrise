@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Execrise2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/TA/Execrise2/Execrise2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Execrise2">
+				<Option output="D:/TA/Execrise2/Execrise2/cmake-build-debug/Execrise2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/TA/Execrise2/Execrise2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TA/Execrise2/Execrise2/include"/>
+					<Add directory="D:/TA/Execrise2/Execrise2"/>
+					<Add directory="D:/TA/Pagram/glm-master/glm-master"/>
+					<Add directory="D:/JetBrain/Clion/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/JetBrain/Clion/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrain/Clion/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/JetBrain/Clion/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrain/Clion/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrain/Clion/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrain/Clion/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Execrise2"/>
+					<CompileFile command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Execrise2/fast">
+				<Option output="D:/TA/Execrise2/Execrise2/cmake-build-debug/Execrise2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/TA/Execrise2/Execrise2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/TA/Execrise2/Execrise2/include"/>
+					<Add directory="D:/TA/Execrise2/Execrise2"/>
+					<Add directory="D:/TA/Pagram/glm-master/glm-master"/>
+					<Add directory="D:/JetBrain/Clion/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/JetBrain/Clion/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrain/Clion/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/JetBrain/Clion/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/JetBrain/Clion/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/JetBrain/Clion/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/JetBrain/Clion/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Execrise2/fast"/>
+					<CompileFile command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/TA/Execrise2/Execrise2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/TA/Execrise2/Execrise2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrain/Clion/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/TA/Execrise2/Execrise2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/TA/Execrise2/Execrise2/Component/Camera.cpp">
+			<Option target="Execrise2"/>
+		</Unit>
+		<Unit filename="D:/TA/Execrise2/Execrise2/Component/Camera.h">
+			<Option target="Execrise2"/>
+		</Unit>
+		<Unit filename="D:/TA/Execrise2/Execrise2/Component/Material.cpp">
+			<Option target="Execrise2"/>
+		</Unit>
+		<Unit filename="D:/TA/Execrise2/Execrise2/Component/Material.h">
+			<Option target="Execrise2"/>
+		</Unit>
+		<Unit filename="D:/TA/Execrise2/Execrise2/Component/Shader.cpp">
+			<Option target="Execrise2"/>
+		</Unit>
+		<Unit filename="D:/TA/Execrise2/Execrise2/Component/Shader.h">
+			<Option target="Execrise2"/>
+		</Unit>
+		<Unit filename="D:/TA/Execrise2/Execrise2/Test.cpp">
+			<Option target="Execrise2"/>
+		</Unit>
+		<Unit filename="D:/TA/Execrise2/Execrise2/include/glad.c">
+			<Option target="Execrise2"/>
+		</Unit>
+		<Unit filename="D:/TA/Execrise2/Execrise2/include/glad.h">
+			<Option target="Execrise2"/>
+		</Unit>
+		<Unit filename="D:/TA/Execrise2/Execrise2/main.cpp">
+			<Option target="Execrise2"/>
+		</Unit>
+		<Unit filename="D:/TA/Execrise2/Execrise2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

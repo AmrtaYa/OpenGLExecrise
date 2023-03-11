@@ -1,0 +1,3 @@
+D:/TA/Execrise2/Execrise2/cmake-build-debug/CMakeFiles/Execrise2.dir
+D:/TA/Execrise2/Execrise2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/TA/Execrise2/Execrise2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
